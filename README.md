@@ -8,15 +8,13 @@ Open-source here is not “this isn’t valuable.” It’s the opposite: it’s
 
 1) **Combauto** — advanced Coinbase cryptocurrency trading automation  
 Statistical + ML hybrid scoring, custom signal work, star-rated trade selection, and a production-style run loop.  
-➡️ `./combauto/`
 
 2) **AIgent (IamAIgo)** — a local “AI teammate” desktop app  
 Chat-style UI that can reason, route tools, and take real actions (file creation + email workflows), while keeping the workflow in your hands.  
-➡️ `./aigent/`
 
 3) **Web Data Collection + Enhancement** — business discovery + enrichment patterns  
 Site-first scraping, structured extraction, and repeatable pipelines aimed at real-world data work.  
-➡️ `./data-enhancement/`
+
 
 
 <img width="1280" height="623" alt="therepository_collage_master_updated2" src="https://github.com/user-attachments/assets/466e9e23-528e-4f92-b658-34fee3c8d88e" />
