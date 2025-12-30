@@ -19,7 +19,7 @@ Site-first scraping, structured extraction, and repeatable pipelines aimed at re
 ➡️ `./data-enhancement/`
 
 
-<img width="1280" height="640" alt="therepository_collage_master_1280x640" src="https://github.com/user-attachments/assets/3de60da8-4386-4cfc-9d2d-b13acd87a45a" />
+<img width="1280" height="623" alt="therepository_collage_master_updated2" src="https://github.com/user-attachments/assets/466e9e23-528e-4f92-b658-34fee3c8d88e" />
 
 
 ## Status
