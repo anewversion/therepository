@@ -1,0 +1,17 @@
+# Core data + math
+numpy
+pandas
+
+# Technical analysis
+pandas-ta
+
+# ML + optimization
+scikit-learn
+lightgbm
+optuna
+
+# Coinbase Advanced Trade SDK (imports: coinbase.rest)
+coinbase-advanced-py
+
+# Env loader
+python-dotenv
