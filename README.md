@@ -18,13 +18,15 @@ Chat-style UI that can reason, route tools, and take real actions (file creation
 Site-first scraping, structured extraction, and repeatable pipelines aimed at real-world data work.  
 ➡️ `./data-enhancement/`
 
+
+<img width="2796" height="1228" alt="therepository_collage" src="https://github.com/user-attachments/assets/bcbd3672-6cf4-4ad5-b574-2101c92bfb20" />
+
+
 ## Status
 
 - ✅ Project 1 of 3 is live: `./combauto/`
 - ✅ Project 2 of 3 is live: `./aigent/`
 - ✅ Project 3 of 3 is live: `./data-enhancement/`
-
-<img width="2796" height="1228" alt="therepository_collage" src="https://github.com/user-attachments/assets/bcbd3672-6cf4-4ad5-b574-2101c92bfb20" />
 
 ## Notes + responsibility
 
