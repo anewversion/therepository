@@ -1,0 +1,28 @@
+# --- Python ---
+__pycache__/
+*.py[cod]
+*.pyd
+*.pyo
+*.pdb
+*.so
+.Python
+.venv/
+venv/
+ENV/
+env/
+pip-wheel-metadata/
+dist/
+build/
+*.egg-info/
+
+# --- VS Code ---
+.vscode/
+
+# --- Secrets / local config ---
+.env
+*.key
+*.pem
+
+# --- Runtime data (Combauto) ---
+data_combauto_v131_run2/
+*.log
